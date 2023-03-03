@@ -4,11 +4,9 @@
   
 
 ### <div align="center">Hi , I'm Emre</div>  
-<h3 align="center">A junior software developer</h3>
+<h3 align="center">A junior developer</h3>
 
--  I’m currently working on **JAVA**  
-  
--  I’m currently learning **software development**  
+-  I’m currently working on **Vue**  
   
 <br/>  
 

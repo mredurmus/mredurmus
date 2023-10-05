@@ -6,7 +6,7 @@
 ### <div align="center">Hi , I'm Emre</div>  
 <h3 align="center">A junior developer</h3>
 
--  I’m currently learning **Vue.js**  
+-  I’m currently learning **Java**  
   
 <br/>  
 

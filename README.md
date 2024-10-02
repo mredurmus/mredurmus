@@ -1,13 +1,9 @@
 <div align="center">
-<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">Hi , I'm Emre</div>  
-<h3 align="center">A junior developer</h3>
 
--  I’m currently learning **Java**  
-  
 <br/>  
 
 

@@ -4,8 +4,9 @@
 <br/>  
 
 
-## My Skill Set  
+
 <div align="center">
+  ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -31,4 +32,5 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="JavaScript" height="50" /></a>
 </div>
 
-</td></tr></table></td>div>  
+</td></tr></table> 
+</div>

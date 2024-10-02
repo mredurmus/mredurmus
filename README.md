@@ -1,13 +1,11 @@
-<div align="center">
-</div>  
-  
+<h1 align="center">Hi! I'm Yunus Emre Durmuş </h1>  
 
-### <div align="center">Hi , I'm Emre</div>  
-
+<h3 align="center">Java Developer & Software Engineer</h3>
 <br/>  
 
 
 ## My Skill Set  
+<div align="center">
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -33,4 +31,4 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="JavaScript" height="50" /></a>
 </div>
 
-</td></tr></table>  
+</td></tr></table></td>div>  

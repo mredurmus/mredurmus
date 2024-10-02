@@ -3,8 +3,6 @@
 <h3 align="center">Java Developer & Software Engineer</h3>
 <br/>  
 
-
-##My Skill Set  
 <div align="center">
 <table><tr><td valign="top" width="33%">
 
